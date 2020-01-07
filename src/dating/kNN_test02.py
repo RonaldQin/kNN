@@ -180,6 +180,9 @@ Returns:
     minVals - 数据最小值
 Modify:
     2020-01-06
+    
+归一化（Normalization）参考：http://www.360doc.com/content/19/0509/13/9350055_834559008.shtml
+
 """
 def autoNorm(dataSet):
     # 获得数据的最小值
